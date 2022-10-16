@@ -117,7 +117,7 @@ def nadas(tiempo, peso):
       return nadas
 
 
-if opcion == "5":
+if opcion == 5:
       nadas = nadas(tiempo, peso)
       print("las calorias que quema al nadar son:", nadas)
 
